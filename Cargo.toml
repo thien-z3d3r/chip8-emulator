@@ -1,0 +1,7 @@
+[package]
+name = "chip8-emulator"
+version = "0.1.0"
+edition = "2021"
+description = "A CHIP-8 virtual machine, CPU emulator, and disassembler in Rust (inspired by PBL emulator tutorials)"
+
+[dependencies]
